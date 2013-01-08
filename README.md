@@ -7,10 +7,10 @@ Screens
 * login
 * settings (user page)
 * search
-** filter?
-** sort on
+  * filter?
+  * sort on
 * case view
-** comment
-** rate
+  * comment
+  * rate
 * featured cases
 
